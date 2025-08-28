@@ -1,10 +1,8 @@
-# Book-shelf
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Library Management System</title>
+    <title>Book shelf</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -269,8 +267,8 @@
         <div class="max-w-7xl mx-auto px-4">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div>
-                    <h3 class="text-xl font-bold mb-4">Library System</h3>
-                    <p class="text-gray-400">Modern digital library management solution for schools, universities, and public libraries.</p>
+                    <h3 class="text-xl font-bold mb-4">Book shelf</h3>
+                    <p class="text-gray-400">Book shelf for schools, universities, and public libraries.</p>
                 </div>
                 <div>
                     <h3 class="text-xl font-bold mb-4">Quick Links</h3>
@@ -287,7 +285,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-                <p>© 2024 Library Management System. All rights reserved.</p>
+                <p>© 2025 Book shelf. All rights reserved.</p>
             </div>
         </div>
     </footer>
